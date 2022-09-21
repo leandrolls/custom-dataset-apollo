@@ -3,7 +3,7 @@ import os
 import time
 
 myPath = 'data/images' # Rasbperry Pi:  '/home/pi/Desktop/data/images'
-cameraNo = 'data/videos/v9.mp4'
+cameraNo = 'data/videos/v2.mp4'
 cameraBrightness = 180
 moduleVal = 10  # SAVE EVERY ITH FRAME TO AVOID REPETITION
 minBlur = 500  # SMALLER VALUE MEANS MORE BLURRINESS PRESENT
