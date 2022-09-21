@@ -1,6 +1,6 @@
 import os
 
-folderPath = 'data/cubo amarelo'
+folderPath = 'datas/cubo amarelo'
 counter = 1
 
 for filename in os.listdir(folderPath):

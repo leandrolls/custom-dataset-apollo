@@ -2,8 +2,8 @@ import cv2
 import os
 import time
 
-myPath = 'data/images' # Rasbperry Pi:  '/home/pi/Desktop/data/images'
-cameraNo = 'data/videos/v2.mp4'
+myPath = 'datas/images' # Rasbperry Pi:  '/home/pi/Desktop/datas/images'
+cameraNo = 'datas/videos/v2.mp4'
 cameraBrightness = 180
 moduleVal = 10  # SAVE EVERY ITH FRAME TO AVOID REPETITION
 minBlur = 500  # SMALLER VALUE MEANS MORE BLURRINESS PRESENT

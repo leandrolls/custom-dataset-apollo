@@ -1,5 +1,0 @@
-farolVermelho
-farolVerde
-faixa
-carro
-stopsign
